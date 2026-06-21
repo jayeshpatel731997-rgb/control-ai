@@ -1,0 +1,21 @@
+sku,product_name,category,location,supplier,current_inventory,reorder_point,safety_stock,avg_daily_demand,lead_time_days,supplier_otif,shipment_delay_days,unit_cost,selling_price
+SKU-1001,Surgical Gloves,Healthcare,Chicago DC,MedSource Partners,420,650,250,95,7,0.82,3,4.10,8.25
+SKU-1002,Insulin Cooler Packs,Healthcare,Dallas DC,ColdChain Medical,310,300,100,28,8,0.94,0,11.50,19.99
+SKU-1003,IV Starter Kits,Healthcare,Atlanta DC,MedSource Partners,180,260,90,35,6,0.89,1,7.25,14.75
+SKU-1004,N95 Respirators,Healthcare,Los Angeles DC,Apex Safety Health,900,500,220,70,5,0.96,0,1.40,3.80
+SKU-1005,Organic Protein Shakes,Food & Beverage,Chicago DC,FreshRoute Foods,260,400,150,48,6,0.91,1,2.35,5.99
+SKU-1006,Frozen Berry Mix,Food & Beverage,Dallas DC,Arctic Harvest,125,300,120,42,9,0.78,4,3.80,8.49
+SKU-1007,Sparkling Water 12pk,Food & Beverage,Atlanta DC,BlueSpring Beverages,1500,900,350,120,4,0.97,0,2.10,5.50
+SKU-1008,Plant-Based Meal Bowls,Food & Beverage,Los Angeles DC,FreshRoute Foods,520,520,180,65,7,0.88,2,4.60,10.99
+SKU-1009,Brake Pad Sets,Automotive,Chicago DC,Precision Auto Supply,140,240,80,24,10,0.84,3,18.00,42.00
+SKU-1010,Engine Air Filters,Automotive,Dallas DC,MotorWorks Direct,780,450,160,50,6,0.93,0,5.25,13.99
+SKU-1011,EV Charging Cables,Automotive,Atlanta DC,VoltEdge Components,95,220,70,20,12,0.81,2,42.00,89.00
+SKU-1012,Windshield Wiper Blades,Automotive,Los Angeles DC,Precision Auto Supply,610,600,200,55,8,0.90,1,6.10,16.50
+SKU-1013,Laundry Detergent Pods,Consumer Goods,Chicago DC,HomeNest Manufacturing,840,700,260,75,5,0.95,0,4.80,12.49
+SKU-1014,Paper Towels 6pk,Consumer Goods,Dallas DC,Everyday Essentials Co,390,650,240,80,6,0.87,3,5.20,13.25
+SKU-1015,Baby Wipes,Consumer Goods,Atlanta DC,SoftCare Products,720,500,180,45,7,0.92,0,2.75,7.50
+SKU-1016,Bluetooth Earbuds,Consumer Goods,Los Angeles DC,Pacific Consumer Tech,210,360,120,30,9,0.83,2,17.50,39.99
+SKU-1017,Diagnostic Test Strips,Healthcare,Chicago DC,LabLink Health,60,180,75,22,8,0.79,5,9.00,21.00
+SKU-1018,Cold Brew Coffee Cases,Food & Beverage,Dallas DC,BlueSpring Beverages,640,500,175,58,5,0.93,1,6.75,15.99
+SKU-1019,Tire Pressure Sensors,Automotive,Atlanta DC,VoltEdge Components,430,380,140,37,8,0.86,0,13.25,31.50
+SKU-1020,Dish Soap Refill Packs,Consumer Goods,Los Angeles DC,HomeNest Manufacturing,980,620,240,60,6,0.98,0,3.10,8.99
